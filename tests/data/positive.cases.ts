@@ -1,0 +1,25 @@
+export const positiveCases = [
+  { id: "Pos_Fun_001", input: "oyaa gedhara inne", expected: "ඔයා ගෙදර ඉන්නේ" },
+  { id: "Pos_Fun_002", input: "oyaa enavadha?", expected: "ඔයා එනවද?" },
+  { id: "Pos_Fun_003", input: "mata eeka epaa", expected: "මට ඒක එපා" },
+  { id: "Pos_Fun_004", input: "issarahata yanna", expected: "ඉස්සරහට යන්න" },
+  { id: "Pos_Fun_005", input: "api heta enavaa", expected: "අපි හෙට එනවා" },
+  { id: "Pos_Fun_006", input: "hari hari hondatama", expected: "හරි හරි හොන්ඩටම" },
+  { id: "Pos_Fun_007", input: "Zoom meeting ekak thiyenavaa", expected: "Zoom meeting එකක් තියෙනවා" },
+  { id: "Pos_Fun_008", input: "Rs. 2500 gaththa", expected: "Rs. 2500 ගත්ත" },
+  { id: "Pos_Fun_009", input: "oyaa office enna late vunee traffic nisaa", expected: "ඔයා office එන්න late වුනේ traffic නිසා" },
+  { id: "Pos_Fun_010", input: "karuNaakaralaa mata podi udhavvak karanna puLuvandha?", expected: "කරුණාකරලා මට පොඩි උදව්වක් කරන්න පුළුවන්ද?" },
+  { id: "Pos_Fun_011", input: "oyaa enne nam mata kalin kiyanna", expected: "ඔයා එන්නෙ නම් මට කලින් කියන්න" },
+  { id: "Pos_Fun_012", input: "Documents tika attach karalaa mata email ekak evanna", expected: "Documents ටික attach කරලා මට email එකක් එවන්න" },
+  { id: "Pos_Fun_013", input: "ID eka scan karalaa WhatsApp karanna", expected: "ID එක scan කරලා WhatsApp කරන්න" },
+  { id: "Pos_Fun_014", input: "mama gedhara inne\no yaa enne kavadhdha?", expected: "මම ගෙදර ඉන්නේ ඔයා එන්නෙ කවද්ද?" },
+  { id: "Pos_Fun_015", input: "passe mama manager ta call ekak gaththaa saha meeting eka Zoom walin join vuna", expected: "පස්සෙ මම manager ට call එකක් ගත්තා සහ meeting එක Zoom වලින් join වුන" },
+
+  { id: "Pos_UI_025", input: "mama gedhara yanavaa", expected: "මම ගෙදර යනවා" },
+  { id: "Pos_UI_026", input: "oyaa enne kavadhdha?", expected: "ඔයා එන්නෙ කවද්ද?" },
+  { id: "Pos_UI_027", input: "oyaa office enna late vunee traffic nisaa", expected: "ඔයා office එන්න late වුනේ traffic නිසා" },
+  { id: "Pos_UI_030", input: "mama inne oyaa enne kavadhdha?", expected: "මම ඉන්නේ ඔයා එන්නෙ කවද්ද?" },
+  { id: "Pos_UI_032", input: "Zoom call ekak", expected: "Zoom call එකක්" },
+  { id: "Pos_UI_033", input: "ehema nam api heta ude yn", expected: "එහෙම නම් අපි හෙට උඩෙ ය්න්" },
+  { id: "Pos_UI_035", input: "ID eka email karalaa WhatsApp karanna", expected: "ID එක email කරලා WhatsApp කරන්න" }
+];
